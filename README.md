@@ -14,3 +14,7 @@ DI用のフレームワーク[Koin](https://github.com/InsertKoinIO/koin)をシ�
 ./gradlew run
 ```
 
+## References
+
+- [Kotlin | Koin](https://insert-koin.io/docs/quickstart/kotlin)
+- [Kotlin - Annotations | Koin](https://insert-koin.io/docs/quickstart/kotlin-annotations)
